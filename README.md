@@ -2,9 +2,9 @@
 
 
 - 🔭 Hoje estou em busca de trabalhar com Front-end
-  Qualquer oportunidade de estágio na área, por favor entrar em contato: mike_rvl@hotmail.com
 - 🌱 Estudando HTML, CSS e Java Script
-- ⚡ Quer me agradar? Me dê um café
+- ⚡ Quer me agradar? Me dê um café<br><br>
+<b>Qualquer oportunidade de estágio na área, por favor entrar em contato: mike_rvl@hotmail.com</b>
 
 <div align="center">
   <a href="https://github.com/mikepcaceres">
